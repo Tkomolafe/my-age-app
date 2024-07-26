@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/my-age-app/static/js/main.95cb473c.js",
+    "index.html": "/my-age-app/index.html",
+    "main.95cb473c.js.map": "/my-age-app/static/js/main.95cb473c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.95cb473c.js"
+  ]
+}
